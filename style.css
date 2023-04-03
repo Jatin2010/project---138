@@ -1,0 +1,22 @@
+.header{
+    width: 100%;
+    text-align: center;
+    margin-top: 3px;
+}
+
+.header h3 {
+    display: inline;
+}
+
+.header button{
+    float: right;
+    border: 2px white solid;
+}
+
+#start , #status , #restart {
+    font-size: 22px;
+}
+
+canvas{
+    margin-top: 130px;
+}
